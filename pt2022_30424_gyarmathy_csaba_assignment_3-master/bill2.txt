@@ -1,0 +1,11 @@
+Order nr. 2
+Customer: adele
+E-Mail: wrong@format.com
+Age: 68
+Address: titulescu 5
+---------------------------
+Product: keyboard
+Unit price: 35
+Order quantity: 3
+---------------------------
+Total price: 105

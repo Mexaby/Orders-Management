@@ -1,0 +1,11 @@
+Order nr. 8
+Customer: george
+E-Mail: at@at.com
+Age: 23
+Address: str. luminei nr. 4
+---------------------------
+Product: telefon ultra
+Unit price: 399
+Order quantity: 3
+---------------------------
+Total price: 1197

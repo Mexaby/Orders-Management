@@ -1,0 +1,11 @@
+Order nr. 1
+Customer: mihai
+E-Mail: 1live@pod.ro
+Age: 44
+Address: sub pod
+---------------------------
+Product: mouse
+Unit price: 50
+Order quantity: 3
+---------------------------
+Total price: 150
